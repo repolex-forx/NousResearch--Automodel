@@ -1,9 +1,8 @@
 {
-  "next_action": "enrich",
-  "phase_completed": "ast",
+  "next_action": "done",
+  "phase_completed": "combine",
   "commit_sha": "922e6b0b34e3f22c6e959405d93a6aff530fc8ab",
-  "ts": "2026-10-09T13:08:45Z",
-  "chunks": 1,
-  "triples": 4275757,
-  "skip_lsp": false
+  "ts": "2026-10-09T13:12:15Z",
+  "total_triples": 891052,
+  "manifest": "/home/runner/work/forx/forx/storage/manifest.json"
 }
