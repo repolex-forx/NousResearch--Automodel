@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "Automodel",
+  "versions": [
+    {
+      "commit": "922e6b0b34e3f22c6e959405d93a6aff530fc8ab",
+      "tag": "main",
+      "parsed_at": "2026-10-09T13:12:15.344913+00:00"
+    }
+  ]
+}
